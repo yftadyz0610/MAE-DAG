@@ -1,0 +1,101 @@
+﻿text_id,error,type,comment,review_sent_num,event_num
+458081,--,,,9,9
+535749,implicit_information_loss,,,5,8
+441942,event_loss,,,15,22
+509843,--,,,2,4
+547374,--,,,20,17
+137588,--,,,15,13
+360210,--,,,3,4
+567786,"action_timing2, word_sense_ambiguity",,,2,4
+359854,--,,,6,12
+316000,--,,,6,7
+369849,not_usage,,,2,4
+430427,--,,,2,2
+370632,--,,,2,4
+178380,word_sense_ambiguity,,,17,30
+96752,--,,,5,5
+509212,--,,,3,2
+66821,--,,,12,17
+118455,--,,,8,4
+24792,word_sense_ambiguity,,,11,13
+525854,--,,,20,24
+480817,--,,,7,9
+366473,event_loss,,,3,10
+265043,action_timing2,,,6,5
+224179,--,,,15,15
+398993,--,,,8,7
+280535,--,,,4,5
+3264,--,,,2,2
+24844,--,,,5,6
+173117,--,,,1,3
+459231,--,,,4,6
+566075,--,,,5,9
+489837,"event_loss, not_usage",,,13,21
+150089,event_loss,,,13,13
+49077,--,,,5,7
+229554,--,,,7,12
+311672,--,,,5,7
+265316,event_loss,,,3,4
+29229,--,,,4,3
+267765,--,,,11,17
+179467,action_timing2,,,7,14
+538561,--,,,13,21
+207066,--,,,14,17
+49721,--,,,12,18
+365641,--,,,7,6
+457811,event_loss,,,7,17
+311185,--,,,4,5
+306540,action_timing2,,,11,14
+152167,--,,,3,4
+165164,not_usage,,,8,12
+238618,wrong_belief,,,7,15
+260158,implicit_information_loss,,,13,19
+254272,--,,,6,13
+510977,--,,,2,3
+233818,--,,,7,10
+121409,--,,,8,8
+61254,--,,,6,8
+352349,--,,,3,5
+322388,--,,,5,6
+348481,--,,"We found many reviews don't include future actions, like this one. It's Ok. The writing logic is  past exp + current feeling. Therefore, past exp imply why we have such feeling, which is worth to deeply explore to understand human behaviors.",9,15
+229518,--,,,6,10
+542587,word_sense_ambiguity,,,5,3
+40656,--,,,10,16
+262993,--,,,4,11
+77997,action_timing1,,,4,8
+112977,event_loss,,,5,9
+2717,"action_timing1, wrong_belief",,[want] pos_emo; [different] pos_feeling,13,24
+214168,--,,,11,12
+11657,wrong_belief,,[raw] pos_feeling,2,3
+292438,--,,,6,4
+552272,implicit_information_loss,,,3,2
+135403,--,,,8,9
+234069,wrong_belief,,[want] pos_emo,4,7
+438568,event_loss,,,8,8
+8974,--,,,3,5
+98740,implicit_information_loss,,,6,7
+12063,--,,,4,5
+112029,action_timing1,,,19,17
+144528,--,,,6,12
+479319,--,,,4,4
+27919,--,,,9,14
+7974,implicit_information_loss,,,6,10
+481061,"action_timing1, action_timing2",,,10,20
+252666,implicit_information_loss,,,11,15
+471602,--,,,4,4
+96894,implicit_information_loss,,,6,8
+9234,--,simple,,2,2
+562020,--,simple,,3,3
+6993,action_timing1,simple,,6,8
+414107,--,simple,,3,3
+456521,--,simple,,9,8
+294119,--,simple,,5,5
+201034,--,simple,,4,8
+259009,word_sense_ambiguity,simple,[light]pos_emo vs coffee flavor,2,5
+158503,wrong_belief,simple,[want] pos_emo,5,6
+73971,"word_sense_ambiguity, event_loss",simple,[light]pos_emo vs coffee flavor,8,9
+466083,action_timing1,complex,[read] Before I  bought this I read all the reviews,6,13
+207609,--,simple,,3,5
+156190,wrong_belief,simple,[sure] pos_feeling/emo,2,5
+325121,--,simple,,5,11
+97501,--,,,5,7

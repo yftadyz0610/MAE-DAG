@@ -1,0 +1,3599 @@
+#amuse
+entertain
+regale
+distract
+delight
+appease
+divert
+occupy
+solace
+please
+busy
+engross
+enchant
+interest
+captivate
+engage
+fascinate
+involve
+console
+charm
+enthral
+disport
+comfort
+beguile
+immerse
+enthrall
+intrigue
+bewitch
+gratify
+hypnotize
+placate
+spoil
+humor
+soothe
+mesmerize
+pleasure
+indulge
+pamper
+pacify
+absorb
+mollify
+coddle
+oblige
+content
+propitiate
+conciliate
+grip
+mollycoddle
+#cheer
+applaud
+praise
+hail
+salute
+acclaim
+commend
+laud
+crack up
+clap
+tout
+celebrate
+accredit
+rise (to)
+endorse
+bravo
+approve
+sing
+recommend
+indorse
+doff one's cap to
+support
+eulogize
+extoll
+favor
+doff one's hat to
+root (for)
+extol
+ballyhoo
+emblazon
+overpraise
+idolize
+magnify
+glorify
+flatter
+adulate
+deify
+belaud
+reassure
+assure
+comfort
+soothe
+console
+solace
+uplift
+sympathize
+empathize
+commiserate
+lift
+relieve
+alleviate
+allay
+condole
+relax
+calm
+elevate
+boost
+buoy (up)
+assuage
+quiet
+tranquillize
+tranquilize
+#'delight',
+joy
+triumph
+glory
+brag
+exult
+rejoice
+exuberate
+jubilate
+kvell
+crow
+gloat
+swell
+boast
+parade
+kick up one's heels
+preen
+flaunt
+show off
+strut
+swagger
+please
+satisfy
+warm
+feast
+pleasure
+thrill
+amuse
+entertain
+rejoice
+gladden
+gratify
+agree (with)
+glad
+content
+tickle
+suit
+soothe
+appease
+excite
+comfort
+placate
+gas
+satiate
+charm
+calm
+titillate
+captivate
+mollify
+quench
+sate
+pacify
+treat
+assuage
+divert
+humor
+galvanize
+spoil
+indulge
+pamper
+cater (to)
+coddle
+mollycoddle
+#'elate',
+excite
+delight
+intoxicate
+exhilarate
+enrapture
+please
+elevate
+satisfy
+uplift
+stimulate
+inspire
+transport
+gladden
+gratify
+rejoice
+content
+warm
+commove
+#'enjoy',
+love
+like
+relish
+savor
+savour
+appreciate
+adore
+take to
+admire
+get off (on)
+rejoice (in)
+delight (in)
+fancy
+go for
+revel (in)
+dig
+get a charge out of
+prefer
+get a kick out of
+have a soft spot for
+groove (on)
+revere
+cherish
+treasure
+venerate
+be partial to
+value
+drink (in)
+worship
+prize
+idolize
+devour
+eat (up)
+cotton (to)
+feast (on)
+dote (on)
+indulge (in)
+favor
+wallow (in)
+#'glad',
+please
+delight
+satisfy
+warm
+rejoice
+pleasure
+thrill
+feast
+agree (with)
+gladden
+entertain
+amuse
+content
+gratify
+suit
+tickle
+appease
+soothe
+excite
+gas
+comfort
+placate
+calm
+mollify
+pacify
+quench
+charm
+satiate
+treat
+sate
+assuage
+captivate
+cater (to)
+galvanize
+divert
+spoil
+indulge
+humor
+pamper
+titillate
+coddle
+mollycoddle
+#'exult',
+delight
+joy
+glory
+triumph
+rejoice
+brag
+jubilate
+exuberate
+kvell
+gloat
+crow
+boast
+kick up one's heels
+preen
+swell
+flaunt
+parade
+strut
+show off
+swagger
+#'jolly',
+joke
+fun
+jest
+banter
+fool
+quip
+jape
+kid
+jive
+yuck
+crack wise
+wisecrack
+yuk
+amuse
+rag
+jibe
+gag
+tease
+jeer
+chaff
+gibe
+parody
+josh
+ridicule
+entertain
+caricature
+mock
+rib
+haze
+satirize
+razz
+lampoon
+rally
+#'joy',
+delight
+glory
+triumph
+exult
+rejoice
+brag
+exuberate
+jubilate
+kvell
+crow
+gloat
+swell
+kick up one's heels
+boast
+parade
+flaunt
+preen
+show off
+swagger
+strut
+#'jubilate',
+delight
+joy
+triumph
+glory
+exult
+rejoice
+brag
+exuberate
+kvell
+crow
+gloat
+kick up one's heels
+swell
+boast
+flaunt
+preen
+parade
+show off
+strut
+swagger
+#'satisfy'
+alleviate
+slake
+indulge
+satiate
+relieve
+sate
+quench
+assuage
+gratify
+saturate
+cater (to)
+lighten
+humor
+cloy
+surfeit
+please
+delight
+warm
+feast
+gratify
+suit
+amuse
+agree (with)
+appease
+entertain
+tickle
+thrill
+content
+pleasure
+gladden
+glad
+soothe
+rejoice
+placate
+satiate
+excite
+sate
+comfort
+mollify
+pacify
+gas
+quench
+calm
+assuage
+titillate
+captivate
+charm
+galvanize
+treat
+divert
+cater (to)
+indulge
+pamper
+spoil
+humor
+coddle
+mollycoddle
+#'please'
+delight
+satisfy
+warm
+glad
+feast
+entertain
+agree (with)
+rejoice
+pleasure
+gratify
+amuse
+gladden
+thrill
+suit
+appease
+content
+tickle
+soothe
+excite
+placate
+comfort
+gas
+satiate
+calm
+pacify
+quench
+treat
+mollify
+sate
+captivate
+divert
+charm
+assuage
+indulge
+spoil
+titillate
+galvanize
+pamper
+cater (to)
+humor
+coddle
+mollycoddle
+#'enthrall',
+fascinate
+enchant
+grip
+mesmerize
+hypnotize
+spellbind
+arrest
+bedazzle
+thrill
+catch up
+entrance
+enrapture
+bewitch
+beguile
+charm
+engross
+engage
+involve
+absorb
+please
+delight
+enrapture
+excite
+charm
+ravish
+entrance
+satisfy
+rapture
+carry away
+fascinate
+captivate
+enchant
+rap
+gladden
+transport
+gratify
+knock dead
+bewitch
+knock one's socks off
+elate
+exhilarate
+stir
+#'captivate',
+fascinate
+entice
+enchant
+charm
+delight
+seduce
+beguile
+please
+kill
+tempt
+lure
+interest
+intrigue
+bewitch
+allure
+draw
+magnetize
+witch
+wile
+pull
+gratify
+disarm
+woo
+enthral
+entrance
+invite
+enthrall
+appeal (to)
+enrapture
+beckon
+arrest
+court
+solicit
+#'yearn',
+long
+pine
+agonize
+fear
+worry
+bother
+despair
+trouble
+chafe
+stress
+sweat
+fret
+stew
+fuss
+#'hope',
+wish
+dream
+look
+mean
+purpose
+intend
+plan
+propose
+aim
+aspire
+try
+contemplate
+consider
+design
+purport
+attempt
+ponder
+calculate
+allow
+strive
+struggle
+debate
+endeavor
+meditate
+go
+achieve
+scheme
+accomplish
+mull (over)
+plot
+effect
+perform
+execute
+#'optimize',
+improve
+maximize
+better
+enhance
+perfect
+increase
+refine
+promote
+upgrade
+expand
+strengthen
+augment
+modify
+change
+transform
+alter
+amplify
+revise
+raise
+boost
+#'pride',
+congratulate
+plume
+flatter
+brag
+pique
+vaunt
+boast
+swagger
+vapor
+swank
+crow
+felicitate
+gasconade
+#'succeed',
+go
+click
+deliver
+bear fruit
+come off
+flourish
+go over
+work out
+catch fire
+pan out
+deliver the goods
+do the trick
+thrive
+prosper
+catch on
+go like clockwork
+cook
+percolate
+thrive
+flourish
+arrive
+prosper
+excel
+win
+make it
+get ahead
+get there
+get somewhere
+cut it
+make good
+hack it
+make the grade
+prevail
+hit it big
+cut the mustard
+triumph
+make one's mark
+come into one's own
+#'relieve',
+alleviate
+help
+soothe
+mitigate
+ease
+soften
+allay
+assuage
+heal
+improve
+cure
+mollify
+palliate
+enhance
+remedy
+lighten
+temper
+moderate
+abate
+fix
+ameliorate
+correct
+rectify
+repair
+better
+amend
+perfect
+refine
+enrich
+reform
+mend
+emend
+meliorate
+#'enthuse',
+drool
+rave
+gush
+fuss
+rhapsodize
+effuse
+slobber
+dote (on)
+fawn
+emote
+#'excite',
+thrill
+electrify
+delight
+inspire
+titillate
+galvanize
+arouse
+intoxicate
+intrigue
+exhilarate
+stimulate
+provoke
+enchant
+turn on
+incite
+captivate
+pump up
+charge
+interest
+mesmerize
+enthrall
+hypnotize
+tantalize
+rivet
+bewitch
+enthral
+charm
+spellbind
+#'exhilarate',
+thrill
+excite
+electrify
+delight
+inspire
+titillate
+intoxicate
+galvanize
+intrigue
+enchant
+arouse
+stimulate
+turn on
+provoke
+pump up
+captivate
+incite
+mesmerize
+charge
+enthrall
+bewitch
+enthral
+charm
+hypnotize
+tantalize
+rivet
+interest
+spellbind
+excite
+delight
+elate
+intoxicate
+enrapture
+please
+elevate
+satisfy
+stimulate
+uplift
+inspire
+transport
+gladden
+gratify
+rejoice
+content
+warm
+commove
+#'thrill',
+excite
+delight
+electrify
+inspire
+intrigue
+titillate
+galvanize
+intoxicate
+exhilarate
+turn on
+enchant
+arouse
+pump up
+provoke
+charge
+stimulate
+interest
+charm
+incite
+rivet
+captivate
+mesmerize
+hypnotize
+enthrall
+bewitch
+enthral
+tantalize
+spellbind
+#'adore',
+love
+cherish
+fall for
+carry the torch (for)
+worship
+idolize
+carry a torch (for)
+idealize
+revere
+lose one's heart (to)
+adulate
+venerate
+reverence
+canonize
+deify
+delight (in)
+dote (on)
+worship
+like
+idolize
+revere
+appreciate
+prefer
+hero-worship
+cherish
+adulate
+dote (on)
+regard
+deify
+canonize
+treasure
+respect
+favor
+value
+fancy
+venerate
+prize
+approve
+esteem
+endorse
+indorse
+support
+hallow
+#'attract',
+entice
+interest
+draw
+inspire
+charm
+fascinate
+captivate
+dazzle
+intrigue
+impress
+occupy
+entrance
+involve
+absorb
+bewitch
+carry away
+enthral
+allure
+engage
+hypnotize
+busy
+enchant
+enthrall
+mesmerize
+enrapture
+transport
+immerse
+stir
+ravish
+engross
+affect
+reach
+catch up
+bias
+influence
+grip
+bemuse
+tell (on)
+enwrap
+sway
+color
+impact
+touch
+strike
+move
+#'care',
+watch
+mind
+notice
+regard
+look out (for)
+attend
+heed
+feel (for)
+observe
+note
+sympathize (with)
+empathize (with)
+#'like',
+want
+enjoy
+love
+feel like
+fancy
+relish
+welcome
+care (for)
+crave
+delight (in)
+desire
+adore
+wish (for)
+dig
+die (for)
+revel (in)
+covet
+groove (on)
+yearn (for)
+hanker (for or after)
+#'love',
+treasure
+appreciate
+value
+enjoy
+cherish
+admire
+respect
+like
+prize
+regard
+relish
+set store on
+revere
+reverence
+delight (in)
+fancy
+venerate
+set store by
+revel (in)
+adore
+dig
+memorialize
+idolize
+groove (on)
+esteem
+caress
+enshrine
+worship
+dote (on)
+apprize
+adore
+cherish
+worship
+fall for
+carry the torch (for)
+idealize
+idolize
+revere
+carry a torch (for)
+reverence
+lose one's heart (to)
+venerate
+delight (in)
+adulate
+canonize
+dote (on)
+deify
+caress
+pat
+stroke
+pet
+hug
+fondle
+gentle
+cradle
+cuddle
+snuggle
+spoon
+nuzzle
+feel up
+baby
+embrace
+neck
+paw
+nestle
+enfold
+indulge
+canoodle
+nose
+bill
+spoil
+pamper
+knead
+massage
+bounce
+dandle
+coddle
+#'desire',
+crave
+want
+enjoy
+covet
+love
+wish (for)
+long (for)
+itch (for)
+pine (for)
+like
+die (for)
+lust (for or after)
+thirst (for)
+salivate (for)
+prefer
+hunger (for)
+sigh (for)
+yearn (for)
+pant (after)
+repine (for)
+yen (for)
+desiderate
+jones (for)
+hanker (for or after)
+ache (for)
+relish
+admire
+set one's heart on
+spoil (for)
+delight (in)
+fancy
+groove (on)
+adore
+revel (in)
+appreciate
+value
+favor
+treasure
+dig
+cherish
+prize
+#'lust',
+mate
+copulate
+sleep
+couple
+fornicate
+play around
+make out
+womanize
+philander
+#'disgust',
+repulse
+appal
+appall
+sicken
+horrify
+revolt
+nauseate
+outrage
+shock
+distress
+repel
+gross out
+insult
+put off
+displease
+disquiet
+turn off
+turn one's stomach
+offend
+affront
+#'envy',
+resent
+begrudge
+covet
+#'exasperate',
+annoy
+irritate
+bother
+persecute
+aggravate
+bug
+infuriate
+irk
+vex
+rile
+spite
+anger
+worry
+chafe
+pique
+provoke
+burn (up)
+itch
+gripe
+grate
+ruffle
+tease
+frost
+wear on
+insult
+nark
+plague
+gall
+hack (off)
+peeve
+put out
+nettle
+rub the wrong way
+enrage
+offend
+rasp
+inflame
+harass
+nag
+upset
+rouse
+enflame
+get on one's nerves
+stick in one's craw
+unsettle
+set one's teeth on edge
+antagonize
+heckle
+get one's goat
+hassle
+agitate
+pester
+distress
+outrage
+perturb
+discomfort
+devil
+rankle
+discompose
+disquiet
+badger
+roil
+unhinge
+affront
+harry
+madden
+bait
+undo
+exercise
+fret
+incense
+freak (out)
+bullyrag
+ballyrag
+miff
+hagride
+#'frustrate',
+thwart
+hamper
+baffle
+hinder
+impede
+prevent
+defeat
+stop
+balk
+discomfit
+overcome
+obstruct
+beat
+foil
+halt
+checkmate
+inhibit
+preclude
+encumber
+interfere (with)
+clog
+obviate
+handicap
+block
+arrest
+nullify
+avert
+hobble
+forestall
+stall
+neutralize
+check
+negate
+tie up
+set back
+hold back
+bar
+counteract
+conquer
+offset
+short-circuit
+shackle
+fetter
+trammel
+manacle
+#'aggravate',
+discourage
+intimidate
+daunt
+frighten
+dishearten
+unnerve
+demoralize
+scare
+dismay
+dispirit
+bother
+worry
+horrify
+afflict
+trouble
+try
+browbeat
+undermine
+chill
+distress
+unman
+depress
+weaken
+throw cold water on
+weigh
+bully
+sadden
+cow
+vex
+irk
+deaden
+dampen
+debilitate
+enfeeble
+damp
+#'agitate',
+disturb
+bother
+distract
+worry
+alarm
+concern
+unsettle
+anger
+annoy
+upset
+distress
+irritate
+perturb
+haunt
+derail
+confuse
+discompose
+discomfort
+unhinge
+plague
+disquiet
+ail
+undo
+rattle
+embarrass
+exercise
+dismay
+aggravate
+fuss
+exasperate
+flurry
+distemper
+harass
+rile
+freak (out)
+discourage
+vex
+irk
+frazzle
+alarum
+pester
+weird out
+bug
+chafe
+bedevil
+hagride
+pique
+put off
+fluster
+grate
+put out
+disconcert
+fret
+chivvy
+discomfit
+mortify
+confound
+discountenance
+gall
+get
+harry
+nettle
+demoralize
+chivy
+dispirit
+unnerve
+dishearten
+shake up
+faze
+abash
+peeve
+jar
+daunt
+nonplus
+#'annoy',
+irritate
+bother
+persecute
+bug
+aggravate
+infuriate
+exasperate
+irk
+rile
+vex
+spite
+eat
+worry
+anger
+burn (up)
+grate
+tease
+itch
+provoke
+pique
+ruffle
+chafe
+gripe
+wear on
+frost
+plague
+put out
+insult
+hack (off)
+nark
+harass
+peeve
+gall
+offend
+enrage
+rub the wrong way
+upset
+rasp
+nettle
+nag
+get on one's nerves
+stick in one's craw
+get one's goat
+set one's teeth on edge
+heckle
+rouse
+antagonize
+pester
+hassle
+inflame
+unsettle
+enflame
+agitate
+badger
+devil
+rankle
+outrage
+distress
+perturb
+discomfort
+harry
+bait
+affront
+roil
+disquiet
+discompose
+unhinge
+exercise
+undo
+bullyrag
+madden
+ballyrag
+incense
+fret
+freak (out)
+hagride
+miff
+#'grouch',
+complain
+scream
+whine
+moan
+mutter
+worry
+bitch
+grumble
+growl
+grump
+kvetch
+nag
+kick
+whimper
+gripe
+repine
+murmur
+squeal
+squawk
+cry
+grouse
+holler
+whinge
+inveigh
+wail
+crab
+beef
+bellyache
+carp
+grizzle
+yowl
+keen
+bleat
+yammer
+caterwaul
+fuss
+kick up a fuss
+yaup
+croak
+kick up a stink
+protest
+yawp
+maunder
+quarrel (with)
+object (to)
+sob
+cavil
+quibble
+stew
+fret
+blubber
+lament
+bewail
+deplore
+bemoan
+#'grump',
+complain
+scream
+whine
+moan
+grumble
+mutter
+worry
+bitch
+growl
+grouch
+kick
+kvetch
+nag
+squeal
+squawk
+cry
+whimper
+whinge
+murmur
+gripe
+grouse
+repine
+inveigh
+wail
+holler
+keen
+crab
+beef
+bellyache
+yowl
+grizzle
+bleat
+carp
+fuss
+yammer
+kick up a fuss
+caterwaul
+kick up a stink
+croak
+protest
+yawp
+yaup
+maunder
+sob
+quarrel (with)
+object (to)
+quibble
+cavil
+stew
+blubber
+lament
+fret
+bewail
+bemoan
+deplore
+pout
+frown
+scowl
+sulk
+mope
+brood
+dwell (on)
+ponder
+mull (over)
+muse (over)
+pet
+glower
+carry on
+lower
+take on
+lour
+#'irritate',
+annoy
+bother
+bug
+persecute
+aggravate
+exasperate
+infuriate
+irk
+rile
+get
+vex
+spite
+eat
+anger
+itch
+worry
+chafe
+burn (up)
+pique
+ruffle
+grate
+provoke
+tease
+gripe
+get to
+wear on
+put out
+frost
+hack (off)
+insult
+gall
+plague
+nark
+peeve
+offend
+nettle
+harass
+rub the wrong way
+enrage
+upset
+rasp
+inflame
+nag
+get on one's nerves
+stick in one's craw
+rouse
+enflame
+set one's teeth on edge
+heckle
+antagonize
+unsettle
+get one's goat
+agitate
+pester
+hassle
+rankle
+discomfort
+perturb
+badger
+devil
+distress
+outrage
+roil
+discompose
+bait
+harry
+unhinge
+disquiet
+affront
+undo
+madden
+incense
+exercise
+fret
+bullyrag
+ballyrag
+freak (out)
+hagride
+miff
+#'anger',
+infuriate
+enrage
+outrage
+annoy
+irritate
+mad
+ire
+enflame
+inflame
+rile
+offend
+steam up
+roil
+rankle
+incense
+tick off
+aggravate
+provoke
+madden
+rub the wrong way
+exasperate
+affront
+huff
+pique
+vex
+burn (up)
+get one's goat
+miff
+ruffle
+cross
+put out
+embitter
+peeve
+antagonize
+nettle
+get
+envenom
+#'dislike',
+hate
+despise
+resent
+loathe
+detest
+disfavor
+mislike
+abhor
+disrelish
+scorn
+abominate
+condemn
+execrate
+object (to)
+disapprove (of)
+cringe (at)
+frown (on or upon)
+shy (from or away from)
+mind
+#'hate',
+despise
+loathe
+detest
+abhor
+abominate
+disdain
+disapprove (of)
+have it in for
+deplore
+execrate
+scorn
+deprecate
+discountenance
+disfavor
+#'loathe',
+hate
+despise
+detest
+abhor
+abominate
+disdain
+have it in for
+disapprove (of)
+execrate
+deplore
+scorn
+deprecate
+discountenance
+disfavor
+#'outrage',
+insult
+offend
+affront
+disrespect
+upset
+taunt
+wound
+slap
+hurt
+slight
+displease
+trouble
+disturb
+pain
+distress
+diss
+mock
+ridicule
+dis
+snub
+jeer
+libel
+torment
+torture
+slander
+sneer (at)
+revile
+slur
+disparage
+smear
+miff
+malign
+oppress
+defame
+persecute
+cut
+anger
+infuriate
+enrage
+annoy
+ire
+mad
+irritate
+enflame
+rile
+inflame
+offend
+steam up
+roil
+rankle
+madden
+incense
+tick off
+affront
+provoke
+aggravate
+rub the wrong way
+pique
+exasperate
+burn (up)
+miff
+huff
+peeve
+get one's goat
+vex
+ruffle
+put out
+cross
+nettle
+antagonize
+get
+embitter
+envenom
+#'rage',
+storm
+fume
+run amuck
+bristle
+run amok
+make a scene
+rave
+steam
+rant
+flare (up)
+seethe
+rampage
+fulminate
+bluster
+foam
+fret
+blow up
+smolder
+flip (out)
+carry on
+smoulder
+take on
+stew
+burn
+chafe
+steam
+storm
+burn
+seethe
+boil
+foam
+fume
+shake
+see red
+sizzle
+rankle
+rant
+agitate
+rave
+inflame
+fulminate
+smolder
+smoulder
+flare (up)
+enflame
+bristle
+stew
+convulse
+fret
+chafe
+roil
+#'scorn',
+disdain
+disrespect
+hate
+despise
+diss
+contemn
+snub
+look down (on or upon)
+walk over
+sniff (at)
+sneeze at
+slight
+snoot
+scout
+high-hat
+dis
+detest
+thumb one's nose (at)
+loathe
+abhor
+look down one's nose (at)
+abominate
+disparage
+belittle
+deplore
+execrate
+deprecate
+frown (on or upon)
+discountenance
+disapprove (of)
+disfavor
+#'spite',
+annoy
+bother
+irritate
+bug
+persecute
+aggravate
+anger
+get
+exasperate
+worry
+infuriate
+get to
+irk
+grate
+eat
+gripe
+put out
+frost
+vex
+wear on
+pique
+gall
+rile
+burn (up)
+chafe
+plague
+itch
+hack (off)
+insult
+ruffle
+provoke
+tease
+rasp
+nark
+peeve
+nettle
+stick in one's craw
+rub the wrong way
+get one's goat
+set one's teeth on edge
+upset
+outrage
+offend
+get on one's nerves
+enrage
+rouse
+harass
+nag
+devil
+hassle
+enflame
+distress
+discomfort
+inflame
+antagonize
+heckle
+affront
+pester
+badger
+disquiet
+exercise
+harry
+rankle
+agitate
+unsettle
+bait
+perturb
+discompose
+undo
+hagride
+ballyrag
+fret
+incense
+unhinge
+roil
+bullyrag
+madden
+freak (out)
+miff
+#'venge',
+avenge
+revenge
+retaliate
+redress
+punish
+get even (for)
+requite
+penalize
+chastise
+correct
+pay (back)
+repay
+discipline
+scourge
+fix
+compensate
+castigate
+chasten
+recompense
+#'torment',
+plague
+persecute
+afflict
+torture
+anguish
+curse
+besiege
+attack
+bother
+beset
+bedevil
+agonize
+harrow
+sting
+trouble
+excruciate
+rack
+distress
+annoy
+pain
+discomfort
+strike
+harass
+aggravate
+disturb
+pursue
+assail
+irritate
+overwhelm
+dog
+oppress
+exasperate
+hurt
+worry
+vex
+hound
+molest
+grieve
+pester
+disquiet
+stress
+badger
+ride
+irk
+upset
+agitate
+discompose
+rile
+try
+smite
+bug
+harry
+tyrannize
+victimize
+put out
+stab
+chafe
+fluster
+perturb
+strain
+gripe
+grate
+gall
+pique
+overpower
+crush
+prick
+nettle
+rasp
+wring
+peeve
+martyr
+hagride
+pang
+smart
+#'alarm',
+scare
+frighten
+spook
+panic
+shock
+fright
+affright
+worry
+terrify
+horrify
+startle
+terrorize
+scarify
+appal
+give one the creeps
+upset
+make one's flesh crawl
+shake
+dismay
+appall
+make one's flesh creep
+distress
+shake up
+awe
+discomfort
+jolt
+disquiet
+amaze
+floor
+daunt
+astound
+distract
+dispirit
+unnerve
+disconcert
+psych (out)
+bowl over
+emasculate
+unsettle
+unman
+perturb
+unstring
+discompose
+undo
+chill
+demoralize
+disturb
+worry
+dismay
+distress
+concern
+upset
+anger
+disquiet
+discomfort
+annoy
+disturb
+ail
+exercise
+bother
+fuss
+flurry
+agitate
+unsettle
+distract
+distemper
+discompose
+perturb
+derail
+unhinge
+freak (out)
+undo
+weird out
+exasperate
+irritate
+get
+aggravate
+frazzle
+bug
+hagride
+confuse
+irk
+rile
+grate
+vex
+fret
+harass
+plague
+chafe
+put off
+embarrass
+rattle
+peeve
+pique
+put out
+fluster
+pester
+harry
+chivvy
+disconcert
+haunt
+gall
+confound
+nettle
+discomfit
+shake up
+daunt
+faze
+mortify
+unnerve
+bedevil
+abash
+jar
+discourage
+discountenance
+chivy
+dispirit
+dishearten
+nonplus
+demoralize
+#'fear',
+worry
+fret
+trouble
+stress
+sweat
+bother
+care a hang
+stew
+fuss
+sweat blood
+despair
+give a hang
+long
+pine
+agonize
+yearn
+chafe
+#'fright',
+frighten
+scare
+terrify
+startle
+spook
+panic
+shock
+affright
+alarm
+horrify
+shake
+terrorize
+alarum
+scarify
+appal
+appall
+amaze
+dismay
+jolt
+awe
+give one the creeps
+make one's flesh crawl
+distress
+worry
+make one's flesh creep
+distract
+discomfort
+shake up
+daunt
+astound
+disquiet
+unnerve
+unsettle
+floor
+dispirit
+disturb
+disconcert
+upset
+unman
+bowl over
+psych (out)
+discompose
+emasculate
+unstring
+chill
+perturb
+undo
+demoralize
+#'panic',
+scare
+frighten
+terrify
+startle
+shock
+fright
+spook
+alarm
+horrify
+shake
+terrorize
+affright
+scarify
+alarum
+worry
+give one the creeps
+appal
+make one's flesh crawl
+dismay
+distract
+appall
+make one's flesh creep
+distress
+amaze
+awe
+jolt
+shake up
+discomfort
+disquiet
+upset
+disturb
+daunt
+astound
+floor
+unnerve
+unsettle
+dispirit
+disconcert
+emasculate
+psych (out)
+bowl over
+unman
+perturb
+discompose
+chill
+demoralize
+unstring
+undo
+#'shock',
+appal
+appall
+horrify
+stun
+scare
+frighten
+startle
+outrage
+jolt
+shake
+astonish
+shake up
+disgust
+terrify
+alarm
+panic
+amaze
+floor
+overwhelm
+dismay
+fright
+dumbfound
+flabbergast
+awe
+upset
+stupefy
+dumfound
+revolt
+spook
+discomfort
+distress
+sicken
+terrorize
+scarify
+scandalize
+offend
+nauseate
+affright
+knock for a loop
+disturb
+displease
+freak (out)
+astound
+disquiet
+repel
+disconcert
+unsettle
+unnerve
+daunt
+perturb
+dispirit
+alarum
+turn off
+bowl over
+demoralize
+undo
+emasculate
+chill
+discompose
+unman
+unstring
+weird out
+overpower
+crush
+scare
+frighten
+terrify
+startle
+panic
+horrify
+spook
+fright
+shake
+alarm
+terrorize
+scarify
+affright
+appal
+appall
+amaze
+jolt
+dismay
+awe
+alarum
+give one the creeps
+make one's flesh crawl
+shake up
+make one's flesh creep
+discomfort
+distract
+worry
+astound
+distress
+upset
+disturb
+unsettle
+disquiet
+floor
+unnerve
+disconcert
+daunt
+dispirit
+perturb
+psych (out)
+emasculate
+bowl over
+demoralize
+chill
+unman
+discompose
+unstring
+undo
+#'terrify',
+frighten
+scare
+startle
+spook
+horrify
+terrorize
+shock
+panic
+fright
+shake
+scarify
+affright
+alarm
+appal
+amaze
+appall
+alarum
+distract
+astound
+make one's flesh crawl
+give one the creeps
+make one's flesh creep
+unnerve
+daunt
+shake up
+unsettle
+awe
+disturb
+dismay
+worry
+jolt
+dispirit
+emasculate
+disconcert
+distress
+demoralize
+perturb
+discomfort
+upset
+floor
+disquiet
+unman
+bowl over
+psych (out)
+undo
+discompose
+unstring
+chill
+#'distress',
+alarm
+concern
+worry
+disturb
+bother
+distract
+anger
+discomfort
+plague
+upset
+agitate
+disquiet
+unsettle
+annoy
+dismay
+haunt
+discompose
+ail
+distemper
+exercise
+irritate
+perturb
+flurry
+derail
+fuss
+undo
+confuse
+freak (out)
+unhinge
+aggravate
+alarum
+rattle
+exasperate
+bug
+embarrass
+weird out
+frazzle
+hagride
+harass
+vex
+discourage
+irk
+put off
+pester
+fret
+fluster
+pique
+put out
+chafe
+rile
+harry
+grate
+gall
+discomfit
+disconcert
+bedevil
+nettle
+chivvy
+confound
+shake up
+chivy
+peeve
+discountenance
+get
+mortify
+abash
+dispirit
+faze
+dishearten
+jar
+unnerve
+demoralize
+daunt
+nonplus
+#'dread',
+fear
+apprehend
+perceive
+caution
+preview
+descry
+alert
+forewarn
+envision
+visualize
+discern
+envisage
+predict
+foresee
+foreshadow
+prophesy
+divine
+foretoken
+forecast
+presage
+prefigure
+anticipate
+foretell
+prognosticate
+augur
+prevision
+foreknow
+forefeel
+#'tense',
+tighten
+stretch
+tauten
+strain
+elongate
+lengthen
+constrict
+extend
+cinch
+#'worry',
+fret
+fear
+stress
+fuss
+sweat
+trouble
+bother
+stew
+care a hang
+agonize
+give a hang
+long
+sweat blood
+despair
+pine
+yearn
+chafe
+bother
+concern
+disturb
+alarm
+distract
+anger
+upset
+distress
+agitate
+unsettle
+discomfort
+plague
+annoy
+haunt
+dismay
+disquiet
+confuse
+fuss
+irritate
+derail
+discompose
+ail
+exercise
+perturb
+undo
+flurry
+freak (out)
+unhinge
+embarrass
+rattle
+bug
+fret
+weird out
+distemper
+exasperate
+aggravate
+irk
+frazzle
+discourage
+hagride
+harass
+vex
+alarum
+chafe
+pester
+rile
+put off
+fluster
+harry
+put out
+pique
+grate
+get
+bedevil
+peeve
+faze
+gall
+shake up
+discomfit
+disconcert
+confound
+daunt
+mortify
+nettle
+chivvy
+dishearten
+unnerve
+abash
+discountenance
+jar
+chivy
+demoralize
+dispirit
+nonplus
+#'disappoint',
+fail
+cheat
+displease
+upset
+let down
+dissatisfy
+deceive
+distress
+disillusion
+bum (out)
+delude
+mock
+chagrin
+disgruntle
+discontent
+disenchant
+#'dismay',
+discourage
+frustrate
+daunt
+intimidate
+worry
+frighten
+dishearten
+scare
+trouble
+unnerve
+dispirit
+horrify
+distress
+bother
+demoralize
+chill
+sadden
+throw cold water on
+browbeat
+weigh
+cow
+unman
+afflict
+try
+bully
+undermine
+irk
+depress
+dampen
+vex
+weaken
+deaden
+damp
+debilitate
+enfeeble
+#'displease',
+annoy
+irritate
+dissatisfy
+disturb
+upset
+discontent
+estrange
+alienate
+disaffect
+disgruntle
+depress
+irk
+agitate
+perturb
+aggrieve
+sadden
+disquiet
+discompose
+peeve
+nettle
+#'alienate',
+infuriate
+anger
+estrange
+enrage
+annoy
+alien
+outrage
+sour
+disaffect
+antagonize
+disappoint
+irritate
+sever
+aggravate
+divide
+embitter
+disgruntle
+bother
+enflame
+rile
+split
+inflame
+dissociate
+rankle
+exasperate
+disunite
+disillusion
+irk
+roil
+separate
+uncouple
+incense
+sunder
+vex
+disenchant
+madden
+unlink
+envenom
+pique
+unyoke
+chafe
+bug
+break up
+grate
+gall
+peeve
+nettle
+#'deject',
+depress
+trouble
+oppress
+burden
+worry
+sadden
+bum (out)
+torture
+concern
+distress
+get down
+bother
+weigh down
+disturb
+ail
+upset
+torment
+afflict
+discourage
+dash
+daunt
+discomfort
+unsettle
+dishearten
+dispirit
+dismay
+perturb
+demoralize
+agitate
+unnerve
+disquiet
+discompose
+exercise
+undo
+freak (out)
+unhinge
+#'embarrass',
+confuse
+fluster
+bother
+mortify
+rattle
+disturb
+disconcert
+humiliate
+faze
+unsettle
+upset
+discomfit
+confound
+discountenance
+distress
+abash
+perturb
+discomfort
+nonplus
+agitate
+shame
+demean
+dismay
+unhinge
+humble
+disquiet
+degrade
+debase
+put off
+chagrin
+discompose
+put out
+queer
+#'humiliate',
+discredit
+embarrass
+degrade
+humble
+demean
+shame
+disgrace
+confuse
+insult
+debase
+dishonor
+abase
+cheapen
+chasten
+criticize
+rattle
+diminish
+take down
+lower
+ridicule
+mortify
+foul
+smirch
+minimize
+disparage
+belittle
+sink
+disconcert
+defame
+detract
+confound
+condemn
+faze
+malign
+depreciate
+slander
+fluster
+discomfit
+discountenance
+castigate
+libel
+decry
+affront
+defile
+discount
+abash
+write off
+denounce
+nonplus
+bad-mouth
+put down
+cry down
+censure
+damn
+execrate
+reprehend
+reprobate
+#'insult',
+offend
+outrage
+disrespect
+taunt
+affront
+wound
+slap
+upset
+hurt
+displease
+disturb
+diss
+slight
+mock
+trouble
+dis
+ridicule
+pain
+distress
+snub
+disparage
+slander
+jeer
+torment
+revile
+torture
+libel
+defame
+malign
+slur
+oppress
+smear
+sneer (at)
+persecute
+cut
+miff
+#'neglect',
+ignore
+forget
+disregard
+overlook
+miss
+pass over
+slight
+bypass
+reject
+omit
+slur (over)
+fail
+overpass
+disdain
+skimp
+brush (aside or off)
+scorn
+scant
+pooh
+slough (off)
+shrug off
+sluff (off)
+pooh-pooh
+forget
+shirk
+slack (off)
+forget
+fail
+omit
+ignore
+disregard
+miss out on
+slight
+pass over
+overlook
+pretermit
+slide
+skip
+default
+slip
+overpass
+#'depress',
+oppress
+sadden
+burden
+worry
+trouble
+deject
+bum (out)
+bother
+weigh down
+torture
+concern
+disturb
+get down
+distress
+discourage
+afflict
+upset
+ail
+torment
+unsettle
+dishearten
+dash
+perturb
+unnerve
+demoralize
+daunt
+dispirit
+agitate
+discomfort
+undo
+unhinge
+dismay
+exercise
+discompose
+disquiet
+freak (out)
+#'despair',
+grieve
+suffer
+mourn
+lose heart
+despond
+sorrow
+hurt
+surrender
+bleed
+discourage
+sadden
+give up
+yield
+darken
+agonize
+dishearten
+dispirit
+#'gloom',
+glare
+stare
+scowl
+frown
+gaze
+lour
+glower
+lower
+stare daggers
+gape
+look daggers
+grimace
+sulk
+sneer
+snarl
+pout
+ogle
+snigger
+growl
+darken
+frown
+stare
+rage
+anger
+lour
+glower
+scowl
+glare
+lower
+brood
+steam
+menace
+sulk
+pout
+pet
+fume
+storm
+mope
+threaten
+intimidate
+bristle
+#'sorrow',
+grieve
+mourn
+ache
+anguish
+sigh
+suffer
+cry
+agonize
+sob
+weep
+hurt
+bleed
+torment
+long (for)
+tear one's hair
+groan
+eat one's heart out
+pine (away)
+bewail
+lament
+regret
+moan
+torture
+rue
+deplore
+blubber
+bemoan
+smart
+howl
+wail
+languish
+bawl
+rack
+keen
+yowl
+take on
+yammer
+#'regret',
+lament
+repent
+mourn
+rue
+deplore
+sorrow (for)
+bemoan
+grieve (for)
+bewail
+ache (for)
+#'shame',
+humiliate
+discredit
+disgrace
+embarrass
+humble
+dishonor
+confuse
+degrade
+insult
+demean
+rattle
+cheapen
+debase
+take down
+criticize
+abase
+chasten
+lower
+diminish
+foul
+sink
+ridicule
+minimize
+smirch
+detract
+disparage
+mortify
+belittle
+faze
+disconcert
+discount
+condemn
+confound
+decry
+libel
+slander
+affront
+write off
+depreciate
+fluster
+defame
+discountenance
+malign
+castigate
+discomfit
+cry down
+damn
+abash
+defile
+put down
+censure
+denounce
+nonplus
+bad-mouth
+execrate
+reprehend
+reprobate
+#'agonize',
+persecute
+plague
+afflict
+torture
+bother
+anguish
+torment
+besiege
+beset
+attack
+bedevil
+curse
+trouble
+excruciate
+harrow
+sting
+rack
+pursue
+worry
+assail
+disturb
+annoy
+overwhelm
+strike
+aggravate
+grieve
+exasperate
+harass
+irritate
+vex
+distress
+pester
+stress
+try
+agitate
+upset
+irk
+perturb
+hurt
+oppress
+discompose
+discomfort
+chafe
+pain
+molest
+hound
+rile
+gripe
+badger
+fluster
+dog
+stab
+victimize
+disquiet
+tyrannize
+gall
+ride
+smite
+put out
+wring
+overpower
+harry
+crush
+bug
+pique
+strain
+grate
+peeve
+get
+nettle
+rasp
+martyr
+prick
+smart
+pang
+hagride
+grieve
+mourn
+ache
+sigh
+anguish
+sorrow
+suffer
+cry
+weep
+hurt
+sob
+bleed
+torment
+groan
+bewail
+long (for)
+lament
+tear one's hair
+moan
+pine (away)
+eat one's heart out
+bemoan
+deplore
+torture
+languish
+regret
+rue
+smart
+bawl
+howl
+yammer
+wail
+blubber
+rack
+keen
+yowl
+take on
+#'anguish',
+plague
+persecute
+afflict
+torture
+torment
+curse
+attack
+agonize
+beset
+bother
+trouble
+besiege
+sting
+harrow
+bedevil
+rack
+distress
+excruciate
+discomfort
+pain
+worry
+disquiet
+stress
+overwhelm
+grieve
+strike
+annoy
+disturb
+aggravate
+hurt
+upset
+pursue
+exasperate
+dog
+irritate
+assail
+vex
+irk
+ride
+hound
+discompose
+harass
+strain
+fluster
+grate
+agitate
+harry
+gripe
+oppress
+pique
+bug
+put out
+badger
+chafe
+rasp
+gall
+rile
+stab
+try
+molest
+nettle
+prick
+victimize
+perturb
+peeve
+smite
+pang
+tyrannize
+pester
+crush
+overpower
+martyr
+wring
+hagride
+get
+smart
+grieve
+ache
+sorrow
+mourn
+sigh
+suffer
+cry
+agonize
+sob
+hurt
+weep
+bleed
+torment
+groan
+tear one's hair
+long (for)
+eat one's heart out
+torture
+moan
+pine (away)
+bewail
+lament
+regret
+howl
+rue
+blubber
+smart
+deplore
+bemoan
+wail
+languish
+bawl
+rack
+keen
+take on
+yowl
+yammer
+#'hurt',
+grieve
+ache
+mourn
+suffer
+sigh
+sorrow
+anguish
+cry
+bleed
+agonize
+sob
+weep
+tear one's hair
+eat one's heart out
+pine (away)
+torment
+long (for)
+groan
+torture
+smart
+moan
+regret
+deplore
+lament
+bewail
+rue
+languish
+bawl
+howl
+bemoan
+rack
+keen
+blubber
+wail
+take on
+yammer
+yowl
+#'suffer'
+grieve
+mourn
+ache
+sigh
+sorrow
+anguish
+hurt
+agonize
+cry
+bleed
+weep
+sob
+groan
+tear one's hair
+torment
+eat one's heart out
+pine (away)
+long (for)
+moan
+bewail
+torture
+languish
+lament
+deplore
+bemoan
+regret
+smart
+rue
+howl
+bawl
+wail
+keen
+blubber
+rack
+take on
+yammer
+yowl
+#'pity',
+bleed (for)
+sympathize (with)
+compassionate
+commiserate (with)
+ache (for)
+condole (with)
+sorrow (for)
+tolerate
+grieve (for)
+care (for)
+#'amaze',
+surprise
+astonish
+stun
+shock
+startle
+astound
+dumbfound
+rock
+flabbergast
+surprize
+stupefy
+dumfound
+perplex
+bewilder
+take by surprise
+take aback
+thunderstrike
+befuddle
+bowl over
+disconcert
+floor
+confuse
+shake up
+dismay
+confound
+nonplus
+discomfit
+blow away
+blindside
+muddle
+daze
+jar
+knock for a loop
+#'astonish',
+amaze
+surprise
+stun
+shock
+startle
+astound
+dumbfound
+stupefy
+flabbergast
+rock
+surprize
+dumfound
+bewilder
+perplex
+take by surprise
+take aback
+thunderstrike
+befuddle
+bowl over
+disconcert
+floor
+nonplus
+discomfit
+confound
+confuse
+shake up
+dismay
+blindside
+blow away
+muddle
+daze
+jar
+knock for a loop
+#'surprise',
+amaze
+shock
+stun
+startle
+astonish
+dumfound
+astound
+dumbfound
+flabbergast
+take by surprise
+take aback
+stupefy
+thunderstrike
+bowl over
+bewilder
+rock
+dismay
+confuse
+perplex
+floor
+daze
+disconcert
+shake up
+befuddle
+blow away
+blindside
+discomfit
+nonplus
+muddle
+confound
+jar
+knock for a loop
