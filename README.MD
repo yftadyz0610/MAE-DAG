@@ -2,10 +2,10 @@
 We present a framework to reveal relationships among **motivations**, **emotions** and **actions** explicitly by **directed acyclic graphs** (MEA-DAG) given natural language texts.
 
 Core features include Nature Design and Nurture Belief.
-- Nature Design: Reveals the interactive mechanism among motivations, emotions and actions in human’s nature, being formed through thousands of years of genetic evolution. Note that only the motivation of human’s need for food is focused. Figure (a) shows the directed graph in inactive states.
+- Nature Design: Reveals the interactive mechanism among motivations, emotions and actions in human’s nature, being formed through thousands of years of genetic evolution. Note that only the motivation of human’s need for food is focused. **Figure (a)** shows the directed graph in inactive states.
 - Nurture Belief: Nurture Belief connects outside world events and Nature Design. It is stored as tuples, e.g. ("meatball", #food). We build it by WordNet, SentiWordNet and LLM automatically.
 
-Figure (b) shows an example of MEA-DAG given a piece of review: *It is funny I saw this product on amazon by accident but I figured why not write something. It seriously makes perfect meatballs. We make for family dinners with this stuff.*
+**Figure (b)** shows an example of MEA-DAG given a piece of review: *It is funny I saw this product on amazon by accident but I figured why not write something. It seriously makes perfect meatballs. We make for family dinners with this stuff.*
 - *It is funny I saw this product on amazon*: "saw" --> #past_experience
 - *It seriously makes perfect meatballs*: (1) “meatball” --> #food (2) “perfect” --> #emo_pos
 - #food, #emo_pos --> #need_food_pos --> #action_pos
@@ -15,7 +15,8 @@ Figure (b) shows an example of MEA-DAG given a piece of review: *It is funny I s
 
 More details can be found in the [paper](https://arxiv.org/abs/2408.00966).
 
-<img src="docs/demo.png">
+[//]: # (<img src="docs/demo.png">)
+![The picture is missed!](docs/demo1.png)
 
 ## Prerequisites
 ### ASER
