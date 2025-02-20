@@ -16,7 +16,7 @@ Core features include Nature Design and Nurture Belief.
 More details can be found in the [paper](https://arxiv.org/abs/2408.00966).
 
 [//]: # (<img src="docs/demo.png">)
-![The picture is missed!](docs/demo1.png)
+![The picture is missed!](docs/demo.jpg)
 
 ## Prerequisites
 ### ASER
