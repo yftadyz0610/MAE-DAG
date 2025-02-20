@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+spacy==3.7.2
+nltk==3.9.1
+pyvis==0.3.2
+joblib==1.2.0
+tqdm==4.67.1
+requests==2.32.3
+textblob==0.19.0
+mlconjug3==3.11.0
